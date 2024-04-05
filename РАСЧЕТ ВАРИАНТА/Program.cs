@@ -13,6 +13,7 @@ namespace РАСЧЕТ_ВАРИАНТА
             int N = 11;
             int k = N % 6;
             Console.WriteLine("Вибраний варіант: " + k);
+
         }
     }
 }
